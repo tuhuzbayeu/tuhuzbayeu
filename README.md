@@ -1,14 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 My name is Vadzim Tuhuzbayeu and I am a performance analyst at EPAM Systems.
 
 <br />
 
-### Connect 📭
+## Connect 📭
 Let's stay connected on [LinkedIn](https://www.linkedin.com/in/tuhuzbayeu/), [Facebook](https://www.facebook.com/tuhuzbayeu/), [Instagram](https://www.instagram.com/tuhuzbayeu/), or via [tuhuzbayeu@gmail.com](mailto:tuhuzbayeu@gmail.com).
 
 <br />
 
-### Competencies 💪
+## Competencies 💪
 I'm experienced in performance testing and optimization.
 
 #### Hard:
